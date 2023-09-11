@@ -1,7 +1,7 @@
 # LightBnB
 
 This is a simple multi-page Airbnb clone that uses server-side JavaScript to display information from SQL queries to web pages.
-
+g
 ## Dependencies
 
 - [bcrypt](https://www.npmjs.com/package/bcrypt) version 3.0.6
