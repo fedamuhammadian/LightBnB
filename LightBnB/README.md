@@ -19,7 +19,8 @@ git clone https://github.com/fedamuhammadian/lightbnb.git
 cd LightBnB
 npm install
 npm run dev
-Access the application in your web browser at http://localhost:3000.
+// Access the application in your web browser at 
+'http://localhost:3000'.
 ```
 
 ## Usage
